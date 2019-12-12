@@ -2,13 +2,17 @@
 	export async function preload({ params, query }) {
 		// the `slug` parameter is available because
 		// this file is called [slug].svelte
-		const res = await this.fetch(`blog/${params.slug}.json`);
-		const data = await res.json();
+		// const res = await this.fetch(`blog/${params.slug}.json`);
+		const res = await this.fetch(`https://dev.to/api/articles/${query.id}`, { headers: {
+			'api-key': 'eaahKzDs2V6icCSmCLTNEK4V'
+		}});
+		const post = await res.json();
+		// console.log(post);
 
 		if (res.status === 200) {
-			return { post: data };
+			return { post };
 		} else {
-			this.error(res.status, data.message);
+			this.error(res.status, post.message);
 		}
 	}
 </script>
@@ -60,5 +64,5 @@
 <h1>{post.title}</h1>
 
 <div class='content'>
-	{@html post.html}
+	{@html post.body_html}
 </div>
