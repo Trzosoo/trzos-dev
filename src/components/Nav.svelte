@@ -1,12 +1,16 @@
 <nav>
+<div class="max-w-xl mx-auto flex justify-between">
 	<ul>
-		<li><a class:selected='{segment === undefined}' href='.'>home</a></li>
-		<li><a class:selected='{segment === "about"}' href='about'>about</a></li>
+		<li><a class:selected='{segment === undefined}' href='.'>Bartosz Trzos</a></li>
+	</ul>
+	<ul>
+		<li><a class:selected='{segment === "about"}' href='about'>Resume</a></li>
 
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
-		<li><a rel=prefetch class:selected='{segment === "blog"}' href='blog'>blog</a></li>
+		<li class="self-end"><a rel=prefetch class:selected='{segment === "blog"}' href='blog'>Blog</a></li>
 	</ul>
+</div>
 </nav>
 
 <script>
@@ -19,12 +23,6 @@
 		font-weight: 300;
 		padding: 0 1em;
 	}
-
-	ul {
-		margin: 0;
-		padding: 0;
-	}
-
 	/* clearfix */
 	ul::after {
 		content: '';
