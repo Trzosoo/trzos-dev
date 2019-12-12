@@ -3,11 +3,8 @@
 		// the `slug` parameter is available because
 		// this file is called [slug].svelte
 		// const res = await this.fetch(`blog/${params.slug}.json`);
-		const res = await this.fetch(`https://dev.to/api/articles/${query.id}`, { headers: {
-			'api-key': 'eaahKzDs2V6icCSmCLTNEK4V'
-		}});
+		const res = await this.fetch(`https://dev.to/api/articles/${query.id}`);
 		const post = await res.json();
-		// console.log(post);
 
 		if (res.status === 200) {
 			return { post };

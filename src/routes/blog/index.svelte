@@ -1,9 +1,6 @@
 <script context="module">
 	export function preload({ params, query }) {
-		return this.fetch(`https://dev.to/api/articles/me`, { headers: {
-			'api-key': 'eaahKzDs2V6icCSmCLTNEK4V'
-		}}).then(r => r.json()).then(posts => {
-			// console.log(posts);
+		return this.fetch(`https://dev.to/api/articles/?username=remotelydev`).then(r => r.json()).then(posts => {
 			return { posts };
 		});
 	}
