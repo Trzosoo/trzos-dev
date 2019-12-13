@@ -6,6 +6,6 @@
 
 <Nav {segment} />
 
-<main class="container max-w-xl">
+<main class="container max-w-2xl">
   <slot />
 </main>
