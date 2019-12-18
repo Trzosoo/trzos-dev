@@ -11410,6 +11410,7 @@ h2,
 h3,
 h4,
 h5 {
+  letter-spacing: -0.025em;
   font-weight: 700;
 }
 
@@ -11433,6 +11434,12 @@ h5 {
   font-size: 1rem;
 }
 
+p {
+  line-height: 1.5;
+  letter-spacing: 0.025em;
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 640px) {
   h1 {
     font-size: 3rem;
@@ -11453,6 +11460,15 @@ h5 {
   h5 {
     font-size: 1.25rem;
   }
+}
+
+a {
+  color: #4299e1;
+}
+
+a:hover {
+  color: #3182ce;
+  text-decoration: underline;
 }
 
 @media (min-width: 640px) {

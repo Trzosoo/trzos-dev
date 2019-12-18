@@ -3,3 +3,11 @@
 @import "tailwindcss/utilities";
 
 @import "./typography.css";
+
+a {
+  @apply text-blue-500;
+}
+
+a:hover {
+  @apply text-blue-600 underline;
+}

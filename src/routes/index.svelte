@@ -2,49 +2,56 @@
   <title>Bartosz Trzos - JavaScript Engineer</title>
 </svelte:head>
 
-<div class="flex my-8">
-  <div class="px-4">
+<div class="flex items-center">
+  <div class="sm:mr-16">
     <h1>Hi! I'm Bartosz</h1>
     <p>
-      Progressive JavaScript engineer, with passion for UI and UX of web
-      applications. Fast thinker and learner with a deep understanding of
-      frontend side of website creation. Usually, work with Vue and React.
-    </p>
-    <h2>Sub headline</h2>
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
-      veritatis cum, debitis aperiam aut laboriosam, rem atque molestias
-      dignissimos reprehenderit architecto ex nam repudiandae, nostrum totam
-      soluta? Atque, hic eum?
+      Software engineer focused on modern JavaScript and web frameworks like
+      React, Vue and Svelte.
     </p>
     <p>
-      Neque maxime consequuntur illum rerum ab soluta quidem fuga corporis. Eius
-      corrupti maiores eveniet porro voluptas quod! Suscipit minima qui
-      necessitatibus, aliquam tenetur expedita pariatur aliquid repellat quae
-      aperiam adipisci!
-    </p>
-    <h2>Sub headline</h2>
-    <p>
-      Provident accusamus earum deserunt deleniti ullam quasi commodi
-      consequatur libero. Et voluptatem quia omnis odio maiores qui, esse
-      explicabo incidunt cumque molestiae adipisci similique autem inventore
-      iure vitae. Corporis, doloribus!
-    </p>
-    <p>
-      Voluptate officiis blanditiis quas impedit delectus similique! Magnam,
-      sunt? Atque ducimus obcaecati non doloribus nulla, velit fugiat voluptas
-      nesciunt natus quos cum, vel hic commodi consequuntur sed? Nisi, pariatur
-      illo?
+      I've built this to
+      <a href="https://www.swyx.io/writing/learn-in-public/" target="_blank">
+        learn in public
+      </a>
+      and have as my playground. Site was built with
+      <a href="https://sapper.svelte.dev/" target="_blank">Sapper</a>
+      ,
+      <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>
+      and
+      <a href="https://dev.to/" target="_blank">Dev.to</a>
     </p>
     <p>
-      Iusto eveniet mollitia eum, deserunt excepturi eius architecto alias iste
-      neque quae, odio ut magni laudantium dicta provident quo? Commodi repellat
-      dignissimos corrupti laboriosam, nesciunt quo deserunt. Vel, eaque quo!
+      In my free time I do calisthenics, take amateour analog pictites and read
+      books. I'm also a Quentin Tarantino fan.
     </p>
+    <div class="flex">
+      <a class="px-4 py-2" target="_blank" href="https://github.com/Trzosoo">
+        Github
+      </a>
+      <a
+        class="px-4 py-2"
+        target="_blank"
+        href="https://twitter.com/remotelydev">
+        Twitter
+      </a>
+      <a
+        class="px-4 py-2"
+        target="_blank"
+        href="https://www.instagram.com/remotelydev/">
+        Instagram
+      </a>
+      <a
+        class="px-4 py-2"
+        target="_blank"
+        href="https://www.linkedin.com/in/bartosz-trzos/">
+        LinkedIn
+      </a>
+    </div>
   </div>
   <img
     class="hidden sm:block h-64 object-cover rounded-full border-4
-    border-gray-600"
+    border-blue-700"
     src="images/bartosz.jpg"
-    alt="My face" />
+    alt="My portrait" />
 </div>
