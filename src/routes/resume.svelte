@@ -113,7 +113,7 @@
       Vue, React, Svelte, Nuxt, Next.js, Sapper, Node.js, Express, jQuery
     </p>
     <p class="mb-2">
-      <span class="font-bold">CSS Frameworks& tools:</span>
+      <span class="font-bold">CSS Frameworks & tools:</span>
       SASS, LESS, PostCSS, Tailwind, Bootstrap, Vuetify, Bulma, Material design
     </p>
     <p class="mb-2">

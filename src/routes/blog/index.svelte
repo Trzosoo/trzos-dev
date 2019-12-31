@@ -12,18 +12,9 @@
   export let posts;
 </script>
 
-<style>
-  ul {
-    margin: 0 0 1em 0;
-    line-height: 1.5;
-  }
-</style>
-
 <svelte:head>
   <title>Bartosz Trzos - Blog</title>
 </svelte:head>
-
-<h1>trzos.dev blog</h1>
 
 <ul>
   {#each posts as post}

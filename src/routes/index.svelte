@@ -14,19 +14,18 @@
       <a href="https://www.swyx.io/writing/learn-in-public/" target="_blank">
         learn in public
       </a>
-      and have as my playground. Site was built with
+      and as my playground. Site was built with
       <a href="https://sapper.svelte.dev/" target="_blank">Sapper</a>
       ,
       <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>
       and
       <a href="https://dev.to/" target="_blank">Dev.to</a>
     </p>
-    <p>
-      In my free time I do calisthenics, take amateour analog pictites and read
-      books. I'm also a Quentin Tarantino fan.
-    </p>
     <div class="flex">
-      <a class="px-4 py-2" target="_blank" href="https://github.com/Trzosoo">
+      <a
+        class="px-4 py-2"
+        target="_blank"
+        href="https://github.com/remotelydev">
         Github
       </a>
       <a
