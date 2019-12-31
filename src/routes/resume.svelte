@@ -2,8 +2,8 @@
   <title>Bartosz Trzos - Resume</title>
 </svelte:head>
 
-<div class="flex -mx-8">
-  <div class="w-2/3 px-4">
+<div class="sm:flex sm:-mx-8">
+  <div class="sm:w-2/3 px-2 sm:px-4">
     <h5 class="mb-1 text-blue-600">Experience</h5>
 
     <div class="mb-4 border-b">
@@ -102,7 +102,7 @@
     <h4>Bachelor of Computer Science</h4>
     <span class="text-gray-700">Opole University of Technology</span>
   </div>
-  <div class="w-1/3 px-4">
+  <div class="sm:w-1/3 px-2 sm:px-4">
     <h5 class="mb-1 text-blue-600">Skills</h5>
     <p class="mb-2">
       <span class="font-bold">Base:</span>
