@@ -2,8 +2,8 @@
   <title>Bartosz Trzos - Resume</title>
 </svelte:head>
 
-<div class="sm:flex sm:-mx-8">
-  <div class="sm:w-2/3 px-2 sm:px-4">
+<div class="sm:flex sm:-mx-16">
+  <div class="sm:w-2/3 px-2 sm:px-8">
     <h5 class="mb-1 text-blue-600">Experience</h5>
 
     <div class="mb-4 border-b">
@@ -38,13 +38,13 @@
       <span class="text-gray-700">SamKnows - London</span>
       <p class="text-sm font-bold text-gray-600">MARCH 2018 - AUGUST 2019</p>
       <p>
-        I had this amazing opportunity to work with SamKnows and I couldn't say
-        no. I joined the frontend team where I was responsible for maintaining
-        the codebase and developing new features of samknows.one. After some
-        time we've split into functional teams and I got into the marketing team
-        where I had to build new samknows.com from ground up. Stack I choose was
-        Vue.js with SSR Node app and prismic.io as CMS. Besides that I had to
-        build sites for our government projects, like
+        When I got this amazing opportunity to work with SamKnows and I couldn't
+        say no. I joined the frontend team where I was responsible for
+        maintaining the codebase and developing new features of samknows.one.
+        After some time we've split into functional teams and I got into the
+        marketing team where I had to build new samknows.com from ground up.
+        Stack I choose was Vue.js with SSR Node app and prismic.io as CMS.
+        Besides that I had to build sites for our government projects, like
         <a href="https://measuringbroadbandcanada.com/" target="_blank">
           Measuring Broadband Canada
         </a>
@@ -102,7 +102,7 @@
     <h4>Bachelor of Computer Science</h4>
     <span class="text-gray-700">Opole University of Technology</span>
   </div>
-  <div class="sm:w-1/3 px-2 sm:px-4">
+  <div class="sm:w-1/3 px-2 sm:px-8">
     <h5 class="mb-1 text-blue-600">Skills</h5>
     <p class="mb-2">
       <span class="font-bold">Base:</span>
