@@ -1,13 +1,19 @@
 <svelte:head>
   <title>Bartosz Trzos - JavaScript Engineer</title>
+  <meta
+    mame="descriprion"
+    content="Software engineer focused on JavaScript, with passion for UI and UX
+    of web applications. Framework agnostic, but usually work with React, Vue or
+    Svelte." />
 </svelte:head>
 
 <div class="flex items-center">
   <div class="sm:mr-16">
     <h1>Hi! I'm Bartosz</h1>
     <p>
-      Software engineer focused on modern JavaScript and web frameworks like
-      React, Vue and Svelte.
+      Software engineer focused on JavaScript, with passion for UI and UX of web
+      applications. Framework agnostic, but usually work with React, Vue or
+      Svelte.
     </p>
     <p>
       I've built this to

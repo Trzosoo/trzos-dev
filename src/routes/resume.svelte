@@ -1,5 +1,10 @@
 <svelte:head>
   <title>Bartosz Trzos - Resume</title>
+  <meta
+    mame="descriprion"
+    content="Software engineer focused on JavaScript, with passion for UI and UX
+    of web applications. Framework agnostic, but usually work with React, Vue or
+    Svelte." />
 </svelte:head>
 
 <div class="sm:flex sm:-mx-16">
