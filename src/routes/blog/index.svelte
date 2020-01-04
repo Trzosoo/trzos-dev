@@ -18,6 +18,11 @@
     mame="description"
     content="Welcome to my blog. I write here about my software developement
     learning process." />
+  <meta name="twitter:title" content="Bartosz Trzos - Blog" />
+  <meta
+    mame="twitter:description"
+    content="Welcome to my blog. I write here about my software developement
+    learning process." />
 </svelte:head>
 
 <ul>

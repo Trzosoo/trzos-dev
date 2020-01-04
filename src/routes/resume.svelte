@@ -5,6 +5,12 @@
     content="Software engineer focused on JavaScript, with passion for UI and UX
     of web applications. Framework agnostic, but usually work with React, Vue or
     Svelte." />
+  <meta name="twitter:title" content="Bartosz Trzos - Resume" />
+  <meta
+    mame="twitter:description"
+    content="Software engineer focused on JavaScript, with passion for UI and UX
+    of web applications. Framework agnostic, but usually work with React, Vue or
+    Svelte." />
 </svelte:head>
 
 <div class="sm:flex sm:-mx-16">
