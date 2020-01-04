@@ -24,10 +24,10 @@
         OCTOBER 2017 - FEBRUARY 2018; AUGUST 2019 - PRESENT
       </p>
       <p>
-        Freelancing frontend remotely. Recently I have finished a project where
-        I was responsible for moving old marketing site to a newer stack with
-        new designs. The new stack contained Nuxt universal app, Tailwindcss,
-        and StoryBlok as CMS.
+        Freelancing frontend remotely. Recently I finished a project where I was
+        responsible for moving old marketing site to a newer stack with new
+        designs. The new stack contained Nuxt universal app, Tailwindcss, and
+        StoryBlok as CMS.
       </p>
       <p>
         Before that I was working for a semi-remote company in Warsaw building
@@ -35,7 +35,7 @@
       </p>
       <p>
         My adventure with frontend development actually started when I finished
-        the Uni. I was making Wordpress sites for local companies in my area.
+        Uni. I was making Wordpress sites for local companies in my area.
       </p>
       <p>
         HTML5, CSS3, VueJS, Nuxt, React, Next.js, Svelte, Sapper, StoryBlok,
@@ -81,12 +81,12 @@
         before and build time was over 2min. By using
         <a href="https://gulpjs.com/" target="_blank">Gulp.js</a>
         with caching I managed to get build times under 100ms. Next I introduced
-        linting, wchih caught over 40k linting errors over old codebase. Then we
+        linting, which caught over 40k linting errors over old codebase. Then we
         decided to move our app to
         <a href="https://vuejs.org/" target="_blank">Vue.js</a>
-        , because it was light, fast and we could go it gratually, view by view.
+        , because it was light, fast and we could go it gradually, view by view.
         After we've built the process to rewrite the app and rewrote main parts
-        I moved on to pursure my dream of remote job.
+        I moved on to pursue my dream of remote job.
       </p>
       <p>
         HTML5, CSS3, JavaScript ES6, Vue, LESS/SASS, CoffeeScript, Bootstrap,
@@ -106,7 +106,7 @@
         produced. Deploying the software. Writing and maintaining documentation
         and training materials.
       </p>
-      <p>Used MS Office, MS SQL databases, Skype</p>
+      <p>MS Office, MS SQL databases, Skype</p>
     </div>
 
     <h5 class="mb-1 text-blue-600">Education</h5>
@@ -120,7 +120,7 @@
       JavaScript ES5/ES6, HTML5, CSS3, RESTful APIs, GIT
     </p>
     <p class="mb-2">
-      <span class="font-bold">Frameworks:</span>
+      <span class="font-bold">Frameworks & libraries:</span>
       Vue, React, Svelte, Nuxt, Next.js, Sapper, Node.js, Express, jQuery
     </p>
     <p class="mb-2">
@@ -133,7 +133,7 @@
     </p>
     <p class="mb-2">
       <span class="font-bold">Soft skills</span>
-      Great team player, asynchronus comunicator, agile development process
+      Great team player, asynchronous communication, agile development process
     </p>
     <p>
       <span class="font-bold">Other:</span>
@@ -148,7 +148,7 @@
       - proficient (C2)
     </p>
     <h5 class="mb-1 text-blue-600">Interests:</h5>
-    Modern UI frameworks, JAM Stack, UI/UX, Accesibility, Calisthenics,
+    Modern UI frameworks, JAM Stack, UI/UX, Accessibility, Calisthenics,
     Photography
   </div>
 </div>
