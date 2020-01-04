@@ -15,7 +15,7 @@
 <svelte:head>
   <title>Bartosz Trzos - Blog</title>
   <meta
-    mame="descriprion"
+    mame="description"
     content="Welcome to my blog. I write here about my software developement
     learning process." />
 </svelte:head>

@@ -1,7 +1,7 @@
 <svelte:head>
   <title>Bartosz Trzos - JavaScript Engineer</title>
   <meta
-    mame="descriprion"
+    mame="description"
     content="Software engineer focused on JavaScript, with passion for UI and UX
     of web applications. Framework agnostic, but usually work with React, Vue or
     Svelte." />
