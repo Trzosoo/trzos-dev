@@ -117,7 +117,7 @@
     <h5 class="mb-1 text-blue-600">Skills</h5>
     <p class="mb-2">
       <span class="font-bold">Base:</span>
-      JavaScript ES5/ES6, HTML5, CSS3, RESTful APIs, GIT
+      JavaScript ES5/ES6, HTML5, CSS3, GraphQL client, RESTful APIs, GIT
     </p>
     <p class="mb-2">
       <span class="font-bold">Frameworks & libraries:</span>
