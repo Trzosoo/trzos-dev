@@ -18,29 +18,49 @@
     <h5 class="mb-1 text-blue-600">Experience</h5>
 
     <div class="mb-4 border-b">
-      <h4>Freelance Frontend Developer</h4>
-      <span class="text-gray-700">Bartosz Trzos Web Apps - Remote</span>
-      <p class="text-sm font-bold text-gray-600">
-        OCTOBER 2017 - FEBRUARY 2018; AUGUST 2019 - PRESENT
+      <h4>Senior Frontend Developer</h4>
+      <span class="text-gray-700">Codete - Remote</span>
+      <p class="text-sm font-bold text-gray-600">SEPTEMBER 2020 - JANUARY 2023</p>
+      <p>
+        I worked on a variety of web development projects using various technologies.
+        In my first project, I built a site using Gatsby and Contentful as a CMS, which required a strong understanding of React and GraphQL.
+        In my second project, I developed an app using Nuxt and Firebase, which involved implementing complex data models and integrating with third-party APIs.
+        Lastly, I worked on several applications for Scandinavian energy companies using NextJS, where I was responsible for designing and implementing features,
+        as well as ensuring the applications were scalable, maintainable, and performant. Throughout these projects,
+        I demonstrated a deep understanding of web development best practices and was able to work collaboratively with cross-functional teams to deliver high-quality products on time and within budget.
       </p>
       <p>
-        Freelancing frontend remotely. Recently I finished a project where I was
-        responsible for moving old marketing site to a newer stack with new
-        designs. The new stack contained Nuxt universal app, Tailwindcss, and
-        StoryBlok as CMS.
+        <span class="font-bold">Skills:</span>Tailwind CSS · HTML5 · CSS3 · Vue.js · Content Management Systems (CMS) · Next.js · Nuxt.js · Firebase · GraphQL · JavaScript · React.js
+      </p>
+    </div>
+
+    <div class="mb-4 border-b">
+      <h4>Senior Frontend Developer</h4>
+      <span class="text-gray-700">ProData Consult - Remote</span>
+      <p class="text-sm font-bold text-gray-600">FEBRUARY 2020 - AUGUST 2020</p>
+      <p>
+        I was responsible for maintaining and rebuilding existing software that generates landing pages for several markets based on JSON files from inhouse CMS.
+        We were using React, Redux, Storybook to build and maintain a design system for the landing pages.
+        I introduced Lerna to manage our monorepo more efficiently.
       </p>
       <p>
-        Before that I was working for a semi-remote company in Warsaw building
-        applications in React with Redux, then I got the SamKnows offer.
+        <span class="font-bold">Skills:</span>HTML5, CSS3, JavaScript ES6, React, Redux, Storybook, Lerna, JSON, Rest API, Kanban, i18n, GIT, Jira, Slack
+      </p>
+    </div>
+
+    <div class="mb-4 border-b">
+      <h4>Senior Frontend Developer</h4>
+      <span class="text-gray-700">Lingohub - remote</span>
+      <p class="text-sm font-bold text-gray-600">OCTOBER 2019 - DECEMBER 2019</p>
+      <p>
+        I joined LigoHub for a short contract to build https://lingohub.com/
+        I used NuxtJS to statically generate the site, StoryBlok as CMS, and TailwindCSS for layouts.
+        I was the only developer in the project working along with the designer.
+        The main issue I had was to move over 300 blog posts from the old site to StoryBlok,
+        I wrote a Node script to help me with that.
       </p>
       <p>
-        My adventure with frontend development actually started when I finished
-        Uni. I was making Wordpress sites for local companies in my area.
-      </p>
-      <p>
-        HTML5, CSS3, VueJS, Nuxt, React, Next.js, Svelte, Sapper, StoryBlok,
-        Prismic, WordPress, Netlify, Tailwind, Styled Components, PostCSS,
-        Redux, Vuex, Webpack, GIT, Slack, Sketch, Figma
+        HTML5, CSS3, JavaScript ES6, Nuxt, StoryBlok, Tailwind, Rest API, Wordpress, Node, GIT, Webpack, Slack, GitHub
       </p>
     </div>
 
@@ -60,7 +80,6 @@
           Measuring Broadband Canada
         </a>
       </p>
-      <p />
       <p>
         HTML5, CSS3, JavaScript ES6, Vue, Node.JS - Express, Vuex, Prismic,
         SASS, Webpack, GIT, Bootstrap, JIRA, Slack, Sketch
