@@ -19,6 +19,19 @@
 
     <div class="mb-4 border-b">
       <h4>Senior Frontend Developer</h4>
+      <span class="text-gray-700">Frontiers - Remote</span>
+      <p class="text-sm font-bold text-gray-600">APRIL 2022 - PRESENT</p>
+      <p>
+        At Frontiers I joined a team to build an app for research paper reviewers. Tinder-style app where the user could volunteer to review a paper just with a swipe. We've built it with Nuxt 2 and moved it to Nuxt 3 later.
+        I was responsible for the main functionality (swiping), application design, maintanance, mentoring, and creation of automated e2e tests.
+      </p>
+      <p>
+        <span class="font-bold">Skills:</span>JavaScript · HTML5 · CSS3 · Vue.js · Tailwind CSS · Nuxt.js · Turborepo · GraphQL · Azure DevOps
+      </p>
+    </div>
+
+    <div class="mb-4 border-b">
+      <h4>Senior Frontend Developer</h4>
       <span class="text-gray-700">Codete - Remote</span>
       <p class="text-sm font-bold text-gray-600">SEPTEMBER 2020 - JANUARY 2023</p>
       <p>
@@ -50,7 +63,7 @@
 
     <div class="mb-4 border-b">
       <h4>Senior Frontend Developer</h4>
-      <span class="text-gray-700">Lingohub - remote</span>
+      <span class="text-gray-700">Lingohub - Remote</span>
       <p class="text-sm font-bold text-gray-600">OCTOBER 2019 - DECEMBER 2019</p>
       <p>
         I joined LigoHub for a short contract to build https://lingohub.com/
@@ -136,7 +149,7 @@
     <h5 class="mb-1 text-blue-600">Skills</h5>
     <p class="mb-2">
       <span class="font-bold">Base:</span>
-      JavaScript ES5/ES6, HTML5, CSS3, GraphQL client, RESTful APIs, GIT
+      JavaScript, HTML5, CSS3, GraphQL client, RESTful APIs, GIT
     </p>
     <p class="mb-2">
       <span class="font-bold">Frameworks & libraries:</span>
@@ -148,7 +161,7 @@
     </p>
     <p class="mb-2">
       <span class="font-bold">Bundlers:</span>
-      Webpack, Gulp, Rollup
+      Webpack, Vite, Gulp, Rollup
     </p>
     <p class="mb-2">
       <span class="font-bold">Soft skills</span>
@@ -156,7 +169,7 @@
     </p>
     <p>
       <span class="font-bold">Other:</span>
-      Emmet, Prettier, ESLint, VSCode, Netlify, Zeit Now
+      Emmet, Prettier, ESLint, VSCode, Netlify, Zeit Now, Turborepo
     </p>
     <h5 class="mb-1 text-blue-600">Languages</h5>
     <p>
@@ -167,7 +180,6 @@
       - proficient (C2)
     </p>
     <h5 class="mb-1 text-blue-600">Interests:</h5>
-    Modern UI frameworks, JAM Stack, UI/UX, Accessibility, Calisthenics,
-    Photography
+    Modern UI frameworks, UI/UX, Accessibility, Calisthenics, Investing
   </div>
 </div>
