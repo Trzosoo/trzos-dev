@@ -169,7 +169,7 @@
     </p>
     <p>
       <span class="font-bold">Other:</span>
-      Emmet, Prettier, ESLint, VSCode, Netlify, Zeit Now, Turborepo
+      Emmet, Prettier, ESLint, VSCode, Netlify, Turborepo
     </p>
     <h5 class="mb-1 text-blue-600">Languages</h5>
     <p>
