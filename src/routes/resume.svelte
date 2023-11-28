@@ -33,7 +33,7 @@
     <div class="mb-4 border-b">
       <h4>Senior Frontend Developer</h4>
       <span class="text-gray-700">Codete - Remote</span>
-      <p class="text-sm font-bold text-gray-600">SEPTEMBER 2020 - JANUARY 2023</p>
+      <p class="text-sm font-bold text-gray-600">SEPTEMBER 2020 - APRIL 2022</p>
       <p>
         I worked on a variety of web development projects using various technologies.
         In my first project, I built a site using Gatsby and Contentful as a CMS, which required a strong understanding of React and GraphQL.
